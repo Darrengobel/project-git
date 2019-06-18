@@ -4,4 +4,4 @@
 
 ***READING THIS WILL PROVIDE YOU GREAT FORTUNE***
 
-![Image](GOld.png) 
+![Image](gold.png) 

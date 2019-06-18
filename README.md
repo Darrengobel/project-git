@@ -1,6 +1,4 @@
-Hello This is a random git project :D
-This Git file is full of random sentences
-Nothing of value is in here
-eksdee
+# PROJECT GIT
 
-Hello world
+**THIS IS THE README FOR MY 'PERSONAL WEBSITE'**
+***READING THIS WILL PROVIDE YOU GREAT FORTUNE***
